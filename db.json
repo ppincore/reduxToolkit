@@ -1,0 +1,21 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "body": "Описание поста 1", "views": 100 },
+    { "id": "2", "title": "another title", "body": "Описание поста 2", "views": 200 },
+    { "id": "3", "title": "React и Redux Toolkit", "body": "Пост о React и RTK", "views": 150 },
+    { "id": "4", "title": "TypeScript для начинающих", "body": "Введение в TypeScript", "views": 120 },
+    { "id": "5", "title": "Как работает RTK Query", "body": "Обзор RTK Query", "views": 180 },
+    { "id": "6", "title": "Советы по оптимизации React", "body": "Оптимизация React-приложений", "views": 90 },
+    { "id": "7", "title": "Что нового в ES2025?", "body": "Новое в стандарте ES2025", "views": 75 },
+    { "id": "8", "title": "Работа с REST API", "body": "Как работать с REST API", "views": 210 },
+    { "id": "9", "title": "Тестирование компонентов", "body": "Тестирование React-компонентов", "views": 130 },
+    { "id": "10", "title": "Продвинутый useEffect", "body": "Глубоко о useEffect", "views": 160 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
